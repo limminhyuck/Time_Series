@@ -2,6 +2,7 @@
 Kaggle의 'Weather Conditions in World War Two' 데이터셋 이용해서 적용
 
 ### Stack
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/numpy-00A3E0?style=for-the-badge&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
 
 ## 시계열 데이터 분석
 - 과거 데이터의 패턴을 분석해서 미래의 값을 예측하는 방법
