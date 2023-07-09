@@ -1,4 +1,4 @@
-# 시계열 데이터 ARIAM모형에 적용
+# 시계열 데이터 ARIMA모형에 적용
 Kaggle의 'Weather Conditions in World War Two' 데이터셋 이용해서 적용
 
 ### Stack
